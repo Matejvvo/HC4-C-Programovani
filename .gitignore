@@ -1,0 +1,30 @@
+# Files without extension
+*
+!*.*
+!*/
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Mac OS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code specific
+.vscode/c_cpp_properties.json
+.vscode/settings.json
+.vscode/tasks.json
+.vscode
+.vscode*
+
+# DSYM stuff
+*.d*
+
+# Diff tmp txt files
+tmp_out.txt
