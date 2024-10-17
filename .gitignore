@@ -6,6 +6,7 @@
 # Executables
 *.exe
 *.out
+*.vsout
 *.app
 *.i*86
 *.x86_64
