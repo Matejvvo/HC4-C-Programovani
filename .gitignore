@@ -20,9 +20,9 @@
 # VS Code specific
 .vscode/c_cpp_properties.json
 .vscode/settings.json
-.vscode/tasks.json
-.vscode
-.vscode*
+# .vscode/tasks.json
+# .vscode
+# .vscode*
 
 # DSYM stuff
 *.d*

@@ -7,8 +7,15 @@ int main() {
     scanf("%d", &A);
     scanf("%d", &B);
 
-    int soucet = A + B;
-    printf("Soucet je: %d\n", soucet);
+    if (B == 0) {
+        printf("Nesmis delit 0!\n");
+        return 1;
+    }
+
+    printf("Soucet je: %d\n", A + B);
+    printf("Rozdil je: %d\n", A - B);
+    printf("Soucin je: %d\n", A * B);
+    printf("Podil  je: %d\n", A / B);
 
     return 0;
 }

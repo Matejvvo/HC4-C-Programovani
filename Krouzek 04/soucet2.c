@@ -11,7 +11,29 @@ int main() {                            // Zacatek programu
     printf("Soucet je: %d\n", A + B);   // Vypis A + B, dosadi se misto znaku %d
     printf("Rozdil je: %d\n", A - B);   // Vypis A - B, dosadi se misto znaku %d
     printf("Soucin je: %d\n", A * B);   // Vypis A * B, dosadi se misto znaku %d
-    printf("Podil  je: %d\n", A / B);   // Vypis A / B, dosadi se misto znaku %d
+
+    if (B != 0) {
+        printf("Podil  je: %d\n", A / B);
+    }
+    else {
+        printf("Nesmis delit 0!\n");
+        return 1;
+    }
 
     return 0;                           // Ukonci program s chybou 0 (zadna chyba)
 }
+
+
+
+
+
+
+
+
+
+// if (B == 0) {
+//     printf("Nesmis delit 0!\n");
+//     return 1;
+// }
+
+// printf("Podil  je: %d\n", A / B);   // Vypis A / B, dosadi se misto znaku %d
