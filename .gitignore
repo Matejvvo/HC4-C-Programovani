@@ -29,3 +29,9 @@
 
 # Diff tmp txt files
 tmp_out.txt
+
+# Img files
+*.jpeg
+*.jpg
+*.png
+
