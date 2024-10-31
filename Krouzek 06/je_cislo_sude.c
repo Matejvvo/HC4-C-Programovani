@@ -1,4 +1,6 @@
 /*
+https://medium.com/@andrei_diaconu/it-beginner-series-javascript-if-else-exercises-cfc5d65b6f94
+
 int cislo = 10
 
 cislo % 2 
