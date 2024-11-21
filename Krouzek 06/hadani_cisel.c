@@ -7,6 +7,17 @@ int main() {
     printf("Hádej tajné číslo mezi 1 a 10: ");
     scanf("%d", &tip);
 
+    int cislo = 100;
+    while (cislo < 1) 
+    {
+        
+    }
+
+
+
+
+
+
     if (tip == tajneCislo) 
     {
         printf("Gratulace! Uhodl jsi správné číslo.\n");

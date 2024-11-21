@@ -1,16 +1,17 @@
 #include <stdio.h>
 
-int main() {
+int main()
+{
     int A;
     int B;
 
     scanf("%d", &A);
     scanf("%d", &B);
 
-    if (B == 0) {
-        printf("Nesmis delit 0!\n");
-        return 1;
-    }
+    // if (B == 0) {
+    //     printf("Nesmis delit 0!\n");
+    //     return 1;
+    // }
 
     printf("Soucet je: %d\n", A + B);
     printf("Rozdil je: %d\n", A - B);
