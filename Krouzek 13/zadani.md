@@ -1,5 +1,7 @@
 # Programování v C - Vánoční úkoly
 
+
+
 ## Úkol 1: Vánoční přání generátor
 
 Naprogramujte jednoduchý program, který zobrazí náhodné vánoční přání nebo zprávu. Při každém spuštění programu se zobrazí jiné přání.
@@ -20,7 +22,7 @@ Naprogramujte jednoduchý program, který zobrazí náhodné vánoční přání
 2. Přidejte jednoduchou ASCII grafiku, např. vánoční stromek nebo sněhovou vločku.
 3. Přidejte možnost uživatelského vstupu, kde uživatel zadá jméno a program přidá přání s tímto jménem.
 
-# ---
+
 
 ## Úkol 2: Počítadlo vánočního cukroví
 
@@ -31,7 +33,7 @@ Pomozte naprogramovat **"Počítadlo vánočního cukroví"**, které dětem umo
 2. Ukládá počet snědeného cukroví do pole (např. pro 7 dní).
 3. Na konci zobrazí souhrn: celkový počet cukroví, průměr na den a den s nejvyšším počtem.
 
-# ---
+
 
 ## Úkol 3: Vánoční stromek z hvězdiček
 
@@ -42,7 +44,7 @@ Naprogramujte program, který zobrazí vánoční stromeček z hvězdiček podle
 2. Udělejte pod stromeček „kmen“ a vyznačte ho pomocí jiných znaků (např. `||`).
 3. Přidejte možnost vykreslit „ozdoby“ do stromečku (nahrazení některých hvězdiček náhodně jinými znaky).
 
-# ---
+
 
 ## Úkol 4: Vánoční odpočet
 
@@ -56,3 +58,5 @@ Naprogramujte jednoduchý **odpočet do Vánoc**.
 ### Bonusové úkoly:
 1. Upravte odpočet tak, aby místo čísel vypisoval řadu hvězdiček podle počtu dní (např. „***“ pro 3 dny).
 2. Přidejte vstup pro uživatele, aby mohl zadat svůj oblíbený dárek, který bude součástí závěrečného přání.
+
+
