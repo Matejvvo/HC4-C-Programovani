@@ -1,0 +1,28 @@
+Jak funguje vážený průměr?
+
+Vážený průměr se používá, když je potřeba vzít v úvahu, že některé
+věci (např. známky) jsou důležitější než jiné.
+
+Jak ho spočítat?
+	1.	Znáš známky a jejich váhy:
+        Např.:  Matematika (známka 1, váha 4), 
+                Čeština (známka 2, váha 3), 
+                Tělocvik (známka 4, váha 1).
+
+	2.	Násobíš známky jejich váhami:
+	    Matematika: 1 * 4 = 4, 
+        Čeština:    2 * 3 = 6, 
+        Tělocvik:   4 * 1 = 4.
+
+	3.	Sečteš vážené známky:
+	    4 + 6 + 4 = 14.
+
+	4.	Sečteš váhy:
+	    4 + 3 + 1 = 8.
+
+	5.	Spočítáš vážený průměr:
+	    Vážený průměr = 14 / 8 = 1,75 = 1.
+
+
+Co to znamená?
+Ukazuje, jak si vedeš, přičemž důležitější věci mají větší vliv.
