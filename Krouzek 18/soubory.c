@@ -5,7 +5,7 @@ int main() {
     FILE *file;  // Ukazatel na soubor
 
     // *** ZÁPIS DO SOUBORU ***
-    file = fopen("soubor.txt", "rw"); // Otevření souboru pro čtení a zápis
+    file = fopen("soubor.txt", "r"); // Otevření souboru pro čtení a zápis
     // if (file == NULL) {
     //     perror("Chyba při otevírání souboru pro zápis");
     //     return 1;
