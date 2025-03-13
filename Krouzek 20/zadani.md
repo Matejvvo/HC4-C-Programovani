@@ -20,20 +20,7 @@ Zadejte teplotu: 15
 Příjemné počasí.
 ```
 
-## 2️⃣ Cykly (while)
-### Úloha: Počítání ciferného součtu
-Napište program, který si od uživatele vyžádá celé číslo a spočítá součet jeho cifer.
-
-**Vstup:**
-```
-Zadejte číslo: 1234
-```
-**Výstup:**
-```
-Součet cifer: 10
-```
-
-## 3️⃣ Cykly (for)
+## 2️⃣ Cykly (for)
 ### Úloha: Násobilka
 Napište program, který si od uživatele vyžádá číslo a vypíše jeho násobilku od 1 do 10.
 
@@ -49,7 +36,7 @@ Zadejte číslo: 7
 7 x 10 = 70
 ```
 
-## 4️⃣ Pole (array)
+## 3️⃣ Pole (array)
 ### Úloha: Průměr známek
 Napište program, který si vyžádá 5 známek (celá čísla) od uživatele, uloží je do pole a vypočítá jejich průměr.
 
@@ -60,6 +47,19 @@ Zadejte 5 známek: 1 2 3 1 2
 **Výstup:**
 ```
 Průměr známek: 1.8
+```
+
+## 4️⃣ Cykly (while)
+### Úloha: Počítání ciferného součtu
+Napište program, který si od uživatele vyžádá celé číslo a spočítá součet jeho cifer.
+
+**Vstup:**
+```
+Zadejte číslo: 1234
+```
+**Výstup:**
+```
+Součet cifer: 10
 ```
 
 ## 5️⃣ scanf a printf
